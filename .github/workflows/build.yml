@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - develop-6.2.x # or the name of your main branch
+      - BroadleafCommerce-4.1.x # or the name of your main branch
 
 jobs:
   build:
